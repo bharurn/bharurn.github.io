@@ -8,4 +8,11 @@ My contributions:
 
 - Testing of the crucial communication library and the software's scaling with the largest protein system simulated so far.
 
-- Main developer for the MiMiCPy python wrapper around MiMiC. This allowed for easy preparation of the input files, using molecular visualization packages, and an easy to use interface to run MiMiC simulations
+- Main developer for the MiMiCPy python interface of MiMiC. Allows for advanced 'pythonic' access of MiMiC input preparation/run functionalities. Comes with command line tools, and integration with molecular visualization packages for efficient building of MiMiC runs.
+
+Skills demonstrated:
+- Languages: C++, Python
+- Colllabrative software development: Git version control, GitHub, GitLab
+- Development enviornments: GCC, Intel, OpenMPI, CMake/Make, GDB
+- Test driven software development: Pytest, GoogleTest, GitLab CI
+- HPC cloud environment: MPI, Bash, SSH, Paramiko
