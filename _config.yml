@@ -2,6 +2,6 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 title: Bharath Raghavan
-description: I am a computational biophysicist with a diverse skill set in structural bioinformatics, data science, computational chemistry, 
-medicinal chemistry, machine learning, and scientific software development. I am currently a PhD student at the Forschungszentrum Jülich of the 
-Helmholtz Association of German Research Centers, working in the Computational Biomedicine (IAS-5/INM-9) institute.
+description: I am a computational biophysicist with a diverse skill set in structural bioinformatics, data science, computational chemistry, >
+medicinal chemistry, machine learning, and scientific software development. | I am currently a PhD student at the Forschungszentrum Jülich of the >
+Helmholtz Association of German Research Centers, working in the Computational Biomedicine (IAS-5/INM-9) institute. | This page is a portfolio summarizing my work.
