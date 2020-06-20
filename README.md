@@ -1,5 +1,3 @@
-# Portfolio
-
 <p align="center">
   <img src="mimic_logo.jpg" />
 </p>
