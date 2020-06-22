@@ -18,7 +18,7 @@ Skills demonstrated:
 - HPC cloud environment: MPI, Bash, SSH, Paramiko
 
 <p align="center">
-  <img src="phd_thesis_img.pnd" />
+  <img src="phd_thesis_img.png" width="500" height="300"/>
 </p>
 
 Carried out MD and QM/MM simulations of IDH1 protein. Clustering and data analysis.
