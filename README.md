@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mimic_logo.jpg" width="400" height="200"/>
+  <img src="mimic_logo.jpg" width="450" height="230"/>
 </p>
 
 I am involved in the MiMiC project together with a network of various Eurpoean researchers. It involves the developement of a new QM/MM software linking the Gromacs and CPMD packges by an efficient MPI/OpenMP communication scheme.
@@ -21,4 +21,5 @@ Skills demonstrated:
   <img src="hepp.png" width="430" height="200"/>
 </p>
 
-Carried out MD and QM/MM simulations of IDH1 protein. Clustering and data analysis.
+My PhD thesis was part of the Helmholtz European Partnering Project between Forschungszentrum Juelich and Italian Institute of Technology. I carried out MD and QM/MM simulations of IDH1 protein. Clustering and data analysis.
+TBA
