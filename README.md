@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="mimic_logo.jpg" />
+  <img src="mimic_logo.jpg" width="400" height="200"/>
 </p>
 
 I am involved in the MiMiC project together with a network of various Eurpoean researchers. It involves the developement of a new QM/MM software linking the Gromacs and CPMD packges by an efficient MPI/OpenMP communication scheme.
@@ -18,7 +18,7 @@ Skills demonstrated:
 - HPC cloud environment: MPI, Bash, SSH, Paramiko
 
 <p align="center">
-  <img src="phd_thesis_img.png" width="500" height="300"/>
+  <img src="hepp_logo.png" width="350" height="150"/>
 </p>
 
 Carried out MD and QM/MM simulations of IDH1 protein. Clustering and data analysis.
