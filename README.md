@@ -20,7 +20,7 @@ Skills demonstrated:
   <img src="hepp.png" width="430" height="200"/>
 </p>
 
-My PhD thesis is conducted within the Helmholtz European Partnering Project between Forschungszentrum Juelich and Italian Institute of Technology. The main goal is computational drug design against neuroloigcal diseases and glioma by targeting the protein Isocitrate Dehydrogenase.
+My Doctral thesis is conducted within the Helmholtz European Partnering Project between Forschungszentrum Juelich and Italian Institute of Technology. The main goal is computational drug design against neuroloigcal diseases and glioma by targeting the protein Isocitrate Dehydrogenase.
 
 My contributions:
 
