@@ -16,3 +16,9 @@ Skills demonstrated:
 - Development enviornments: GCC, Intel, OpenMPI, CMake/Make, GDB
 - Test driven software development: Pytest, GoogleTest, GitLab CI
 - HPC cloud environment: MPI, Bash, SSH, Paramiko
+
+<p align="center">
+  <img src="phd_thesis_img.pnd" />
+</p>
+
+Carried out MD and QM/MM simulations of IDH1 protein. Clustering and data analysis.
