@@ -75,38 +75,14 @@ author:
   name             : "Bharath Raghavan"
   avatar           : "profile.png"
   bio              : "Computational physicist interested in Artifical intelligence, Quantum Simulations & Supercomputing for Drug Design/Discovery"
-  location         : "Location"
-  employer         :
+  employer         : "Forschungszentrum J&uuml;lich"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=nqi44wUAAAAJ&hl=en"
-  email            :
+  email            : "b.raghavan at fz-juelich.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  gitlab           : "bharurn"
   github           : "bharurn"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0186-2625l"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  orcid            : "https://orcid.org/0000-0003-0186-2625"
 
 
 # Reading Files
