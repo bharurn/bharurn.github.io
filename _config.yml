@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bharath Raghavan"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Bharath Raghavan"
 description              : &description "personal description"
@@ -80,15 +80,42 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bharath Raghavan"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Computational physicist interested in Artifical intelligence, Quantum Simulations & Supercomputing for Drug Design/Discovery""
-  googlescholar    : "https://scholar.google.com/citations?user=nqi44wUAAAAJ&hl=en"
-  email            :  "b.raghavan at fz-juelich.de"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
+  employer         :
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  gitlab           : "https://gitlab.com/bharurn"
-  github           : "https://github.com/bharurn"
-  orcid            : "https://orcid.org/0000-0003-0186-2625"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           : "academicpages"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin         :
+  orcid            : "http://orcid.org/yourorcidurl"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
+  twitter          : "replacethistwitterhandle"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
+
 
 # Reading Files
 include:
