@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Bharath Raghavan's Portfolio"
+title: "Bharath Raghavan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-BLAH
+Big Compute for Drug Design
