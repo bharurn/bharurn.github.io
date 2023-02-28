@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Talk map"
-permalink: /talkmap.html
+title: "Experience"
+permalink: /experience.html
 author_profile: true
 ---
 
