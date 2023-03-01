@@ -13,10 +13,13 @@ I have a diverse work/education experience, having been involved with institutio
   
 <img src="../images/Experience.jpg"  width="60%" height="40%">
 
-<img src="../images/rwth_fzj.png"  width="40%" height="20%"/>\\
-**Duration:** Oct 2020 – Current
-**Advisor:** Prof. Dr. Paolo Carloni
-**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
+<img src="../images/rwth_fzj.png"  width="40%" height="20%"/>\
+\
+**Duration:** Oct 2020 – Current\
+**Advisor:** Prof. Dr. Paolo Carloni\
+**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite\
+
+---
 
 <img style="float: center;" src="../images/cmu.png"  width="40%" height="20%"/>  
 <br>
