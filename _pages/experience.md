@@ -16,15 +16,29 @@ I have a diverse work/education experience, having been involved with institutio
 </p>
 
 <img style="float: left;" src="../images/rwth_fzj.png"  width="40%" height="20%"/>
-<div style="text-align: right"> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
-ADVISOR: Prof. Dr. Paolo Carloni
-THESIS (Tentative Title): Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
+<div style="text-align: right"> <b> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics </b>
+  <br>
+  <b>Duration:</b> Oct 2020 – Current
+  <br>
+  <b>Advisor:</b> Prof. Dr. Paolo Carloni
+  <br>
+  <b> Thesis (Tentative Title):</b> Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 </div>
 
-<img src="../images/cmu.png"  width="40%" height="20%">  Master of Science (MS) in Colloids, Polymers and Surfaces
-ADVISOR: Prof. Hyung J. Kim
-THESIS: Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
+<img style="float: left;" src="../images/cmu.png"  width="40%" height="20%"/>  <div style="text-align: right"> <b> Master of Science (MS) in Colloids, Polymers and Surfaces </b>
+  <br>
+  <b>Duration:</b> Aug 2018 – Dec 2019
+  <br>
+  <b>Advisor:</b> Prof. Hyung Kim
+  <br>
+  <b> Thesis:</b> Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
+</div>
 
-<img src="../images/rv.png"  width="40%" height="20%"> Bachelor of Engineering (B.E.) in Chemical Engineering
-ADVISOR: Dr. Tribikram Gupta
-THESIS: Molecular Dynamics of H2/CH4 Gas Permeation in Nanoporous Graphene
+<img style="float: left;" src="../images/rv.png"  width="40%" height="20%"/> <div style="text-align: right"> <b> Bachelor of Engineering (B.E.) in Chemical Engineering </b>
+    <br>
+  <b>Duration:</b> Aug 2013 – May 2017
+  <br>
+  <b>Advisor:</b> Dr. Tribikram Gupta
+  <br>
+  <b> Thesis:</b> Molecular Dynamics of H2/CH4 Gas Permeation in Nanoporous Graphene
+</div>
