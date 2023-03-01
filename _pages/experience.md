@@ -47,7 +47,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/hri.png"  width="30%" height="15%"/>\
+<img src="../images/hri.png"  width="40%" height="20%"/>\
 \
 **Visiting Student in Physics**\
 **Duration:** May – June 2018\
