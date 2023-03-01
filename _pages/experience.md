@@ -15,8 +15,9 @@ I have a diverse work/education experience, having been involved with institutio
 <img src="../images/Experience.jpg"  width="60%" height="40%">
 </p>
 
-<img style="float: left;" src="../images/rwth_fzj.png"  width="40%" height="20%"/>
-<div style="text-align: right"> <b> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics </b>
+<img style="float: center;" src="../images/rwth_fzj.png"  width="40%" height="20%"/>
+<br>
+<div style="text-align: left"> <b> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics </b>
   <br>
   <b>Duration:</b> Oct 2020 – Current
   <br>
@@ -25,7 +26,9 @@ I have a diverse work/education experience, having been involved with institutio
   <b> Thesis (Tentative Title):</b> Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 </div>
 
-<img style="float: left;" src="../images/cmu.png"  width="40%" height="20%"/>  <div style="text-align: right"> <b> Master of Science (MS) in Colloids, Polymers and Surfaces </b>
+<img style="float: left;" src="../images/cmu.png"  width="40%" height="20%"/>  
+<br>
+<div style="text-align: left"> <b> Master of Science (MS) in Colloids, Polymers and Surfaces </b>
   <br>
   <b>Duration:</b> Aug 2018 – Dec 2019
   <br>
@@ -34,7 +37,9 @@ I have a diverse work/education experience, having been involved with institutio
   <b> Thesis:</b> Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
 </div>
 
-<img style="float: left;" src="../images/rv.png"  width="40%" height="20%"/> <div style="text-align: right"> <b> Bachelor of Engineering (B.E.) in Chemical Engineering </b>
+<img style="float: left;" src="../images/rv.png"  width="40%" height="20%"/>
+<br>
+<div style="text-align: center"> <b> Bachelor of Engineering (B.E.) in Chemical Engineering </b>
     <br>
   <b>Duration:</b> Aug 2013 – May 2017
   <br>
