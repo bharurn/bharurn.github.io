@@ -21,7 +21,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Feb 2020 – Current\
-**Location:** Aachen & Jülich, Germany
+**Location:** Aachen & Jülich, Germany\
 **Advisor:** Prof. Dr. Paolo Carloni\
 **Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 
@@ -31,7 +31,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Master of Science (MS) in Colloids, Polymers and Surfaces**\
 **Duration:** Aug 2018 – Dec 2019\
-**Location:** Pittsburg, United States of America
+**Location:** Pittsburg, United States of America\
 **Advisor:** Prof. Hyung Kim\
 **Thesis:** Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
 
@@ -41,7 +41,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Graduate Engineering Trainee**\
 **Duration:** July 2017 – May 2018\
-**Location:** Dahej, India
+**Location:** Dahej, India\
 **Work:** Process Engineer at the Ethylene Oxide/Ethylene Glycol (EO/EG) Sub-divsion
 
 ---
@@ -50,7 +50,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
 **Duration:** Aug 2013 – May 2017\
-**Location:** Bengaluru, India
+**Location:** Bengaluru, India\
 **Advisor:** Dr. Tribikram Gupta\
 **Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
 
