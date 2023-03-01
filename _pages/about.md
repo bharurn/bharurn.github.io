@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
- <img src="images/Banner.jpg>
+ <img src="../images/Banner.jpg>
 </p>
 
 <div style="text-align: justify">
@@ -23,7 +23,7 @@ I am a doctoral student at Forschungszentrum Jülich, one of the foremost superc
 </div>
 
 <p align="center">
- <img src="images/Banner2.jpg>
+ <img src="../images/Banner2.jpg>
 </p>
 
 <div style="text-align: justify">
