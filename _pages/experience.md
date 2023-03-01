@@ -9,7 +9,9 @@ author_profile: true
 
 I have a diverse work/education experience, having been involved with institutions in India, the United States and Germany. I also have a diverse training in computational chemistry, machine learning & data science, physical chemistry and pharmaceutical biochemistry.
 
+<p align="center">
 <img src="../images/Experience.jpg"  width="60%" height="40%">
+</p>
 
 <img src="../images/rwth_fzj.png"  width="40%" height="20%"> Doctor rerum naturalium (Dr. rer. nat.) in Biophysics	Oct 2020 – Current
 ADVISOR: Prof. Dr. Paolo Carloni
