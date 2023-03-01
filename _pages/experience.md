@@ -57,7 +57,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rv.png"  width="18%" height="9%"/>\
+<img src="../images/rv.png"  width="16%" height="8%"/>\
 \
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
 **Duration:** Aug 2013 – April 2017\
