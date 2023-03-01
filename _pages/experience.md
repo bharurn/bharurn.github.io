@@ -37,19 +37,30 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/ril.png"  width="25%" height="12%"/>\
+<img src="../images/hri.png"  width="25%" height="12%"/>\
 \
-**Graduate Engineering Trainee**\
-**Duration:** July 2017 – May 2018\
-**Location:** Dahej, India\
-**Work:** Process Engineer at the Ethylene Oxide/Ethylene Glycol (EO/EG) Sub-divsion
+**Visiting Student in Physics**\
+**Duration:** May – June 2018\
+**Location:** Prayagraj, India\
+**Advisor:** Prof. Pinaki Majumdar\
+**Work:** Tight binding simulations of condensed matter systems
 
 ---
 
 <img src="../images/rv.png"  width="20%" height="10%"/>\
 \
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
-**Duration:** Aug 2013 – May 2017\
+**Duration:** Aug 2013 – April 2017\
+**Location:** Bengaluru, India\
+**Advisor:** Dr. Tribikram Gupta\
+**Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
+
+---
+
+<img src="../images/rv.png"  width="20%" height="10%"/>\
+\
+**Bachelor of Engineering (B.E.) in Chemical Engineering**\
+**Duration:** Aug 2013 – April 2017\
 **Location:** Bengaluru, India\
 **Advisor:** Dr. Tribikram Gupta\
 **Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
