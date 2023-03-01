@@ -17,7 +17,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Duration:** Oct 2020 – Current\
 **Advisor:** Prof. Dr. Paolo Carloni\
-**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite\
+**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 
 ---
 
