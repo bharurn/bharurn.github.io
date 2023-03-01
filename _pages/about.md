@@ -12,14 +12,18 @@ redirect_from:
 ![Banner Image](images/Banner.jpg)
 </p>
 
+<div style="text-align: justify">
 With the high research costs and expensive failure rates of the drug design & discovery process, computational methods have been increasingly exploited by both academia and the pharmaceutical industry. The COVID pandemic has exemplified the need for a "lightspeed approach" to drug design.
 
 The **Big Data** revolution of the past decade has hugely increased the efficacy of computational drug design and virtual screening techniques. However with the advent of faster supercomputers and exascale computation, we are witnessing a renewed look at heavier physics-based algorithms--the **Big Compute** revolution. Can we take advantage of this coming revolution to upgrade drug design to the next level?
 
 I am a doctoral student at Forschungszentrum Jülich, one of the foremost supercomputing centers in Europe, and my research mission is to investigate this question. I believe that highly scalable quantum simulations, coupled with complex deep learning neural networks, can give us intricate atomic-level insights of pharmaceutically relevant enzyme function. This deep quantum-level understanding of our biology can greatly streamline the drug design process by promoting the rational and scientific design of enzyme inhibitors. The wider promulgation of supercomputing technology will allow the scientific and industrial community to unlock the huge potential of AI-accelerated quantum simulations for drug design.
+</div>
 
 <p align="center">
 ![Banner Image2](images/Banner2.jpg)
 </p>
 
+<div style="text-align: justify">
 Browse this website to get a greater sense of my work and experience. Please feel free to contact me if you wish to collaborate on some exciting ideas!
+</div>
