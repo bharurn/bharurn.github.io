@@ -64,5 +64,3 @@ I have a diverse work/education experience, having been involved with institutio
 **Location:** Bengaluru, India\
 **Advisor:** Dr. Tribikram Gupta\
 **Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
-
-----
