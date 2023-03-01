@@ -21,7 +21,7 @@ I have a diverse work/education experience, having been involved with institutio
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Feb 2020 – Current\
-**Location:** Aachen & Jülich, Germany\
+**Location:** Aachen, Germany\
 **Advisor:** Prof. Dr. Paolo Carloni\
 **Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 
