@@ -27,7 +27,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/cmu.png"  width="30%" height="15%"/>\
+<img src="../images/cmu.png"  width="28%" height="14%"/>\
 \
 **Master of Science (MS) in Colloids, Polymers and Surfaces**\
 **Duration:** Aug 2018 – Dec 2019\
