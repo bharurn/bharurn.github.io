@@ -22,7 +22,7 @@ I have a diverse work/education experience, having been involved with institutio
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Feb 2020 – Current\
 **Location:** Aachen, Germany\
-**Advisor:** Prof. Dr. Paolo Carloni\
+**Advisor:** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p)\
 **Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
 
 ---
@@ -32,7 +32,7 @@ I have a diverse work/education experience, having been involved with institutio
 **Master of Science (MS) in Colloids, Polymers and Surfaces**\
 **Duration:** Aug 2018 – Dec 2019\
 **Location:** Pittsburg, United States of America\
-**Advisor:** Prof. Hyung Kim\
+**Advisor:** [Prof. Hyung Kim](https://www.cmu.edu/chemistry/people/faculty/kim.html)\
 **Thesis:** Theoretical Study of Transesterification of Cellulose Biopolymer in Ionic Liquids
 
 ---
@@ -52,7 +52,7 @@ I have a diverse work/education experience, having been involved with institutio
 **Visiting Student in Physics**\
 **Duration:** May – June 2018\
 **Location:** Prayagraj, India\
-**Advisor:** Prof. Pinaki Majumdar\
+**Advisor:** [Prof. Pinaki Majumdar](https://www.hri.res.in/people/Physics/pinaki)\
 **Work:** Tight binding simulations of condensed matter systems
 
 ---
@@ -62,5 +62,5 @@ I have a diverse work/education experience, having been involved with institutio
 **Bachelor of Engineering (B.E.) in Chemical Engineering**\
 **Duration:** Aug 2013 – April 2017\
 **Location:** Bengaluru, India\
-**Advisor:** Dr. Tribikram Gupta\
+**Advisor:** [Dr. Tribikram Gupta](https://www.rvce.edu.in/ph-faculty-tg)\
 **Thesis:** Molecular Dynamics of H<sub>2</sub>/CH<sub>4</sub> Gas Permeation in Nanoporous Graphene
