@@ -27,5 +27,5 @@ I am a doctoral student at Forschungszentrum Jülich, one of the foremost superc
 </p>
 
 <div style="text-align: justify">
-Browse this website for more details. [Contact me](https://www.fz-juelich.de/profile/raghavan_b)) if you wish to collaborate on some exciting ideas!
+Browse this website for more details. [Contact me](https://www.fz-juelich.de/profile/raghavan_b) if you wish to collaborate on some exciting ideas!
 </div>
