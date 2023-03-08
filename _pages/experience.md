@@ -20,10 +20,30 @@ I have a diverse work/education experience, having been involved with institutio
 <img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
-**Duration:** Feb 2020 – Current\
+**Duration:** Oct 2020 – Current\
 **Location:** Aachen, Germany\
 **Advisor:** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p)\
-**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of the IDH1 Oncometabolite
+**Thesis (Tentative Title):** Towards Exascale High Performance Computing for Drug Design – Scalable Quantum Simulations of Cancer-Associtaed IDH1
+
+---
+
+<img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
+\
+**Doctoral Student**\
+**Duration:** Aug 2020 – Current\
+**Location:** Jülich, Germany\
+**Advisor:** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p)\ & [Dr. Marco De Vivo](https://www.iit.it/people-details/-/people/marco-devivo)
+**Work:** Work Towards Thesis under Prof. Dr. Paolo Carloni, Director of the Computational Biomedicine institute (IAS-5/INM-9)
+
+---
+
+<img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
+\
+**Research Assistant**\
+**Duration:** Feb 2020 – Aug 2020\
+**Location:** Jülich, Germany\
+**Advisor:** [Prof. Dr. Paolo Carloni](https://www.fz-juelich.de/profile/carloni_p)\ & [Dr. Marco De Vivo](https://www.iit.it/people-details/-/people/marco-devivo)
+**Work:** Performed classical molecular dynamics simulations and analysis of wild type and mutant IDH1
 
 ---
 
