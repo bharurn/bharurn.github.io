@@ -17,7 +17,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
+<img src="../images/rwth.png"  width="30%" height="15%"/>\
 \
 **Doctor rerum naturalium (Dr. rer. nat.) in Physics**\
 **Duration:** Oct 2020 – Current\
@@ -27,7 +27,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
+<img src="../images/fzj.png"  width="30%" height="15%"/>\
 \
 **Doctoral Student**\
 **Duration:** Aug 2020 – Current\
@@ -37,7 +37,7 @@ I have a diverse work/education experience, having been involved with institutio
 
 ---
 
-<img src="../images/rwth_fzj.png"  width="30%" height="15%"/>\
+<img src="../images/fzj.png"  width="30%" height="15%"/>\
 \
 **Research Assistant**\
 **Duration:** Feb 2020 – Aug 2020\
