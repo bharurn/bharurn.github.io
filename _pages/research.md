@@ -9,19 +9,11 @@ author_profile: true
   <img src="mimic_logo.jpg" width="450" height="230"/>
 </p>
 
-I am involved in the MiMiC project together with a network of various Eurpoean researchers. It involves the developement of a new open source software for performing QM/MM molecular simulations using efficient MPI/OpenMP communication scheme.
+I am involved in the [MiMiC project](https://mimic-project.org/en/latest/) together with [Dr. Jógvan Magnus Haugaard Olsen](https://orbit.dtu.dk/en/persons/jógvan-magnus-haugaard-olsen) and [Prof. Ursula Röthilsberger](https://www.epfl.ch/labs/lcbc/roethlisberger/). The MiMiC framework is an open-source, general platform that enables the implementation of multiscale computational chemistry simulation methods through coupling of multiple external programs, designed for massively parallel applications with a multiple-programs multiple-data model. The program is written in a combination of Fortran and C++, and parallelization implemnted with hybrid MPI/OpenMP. Currently, MiMiC couple the CPMD and GROMACS code to perform highly scalable QM/MM biomolecular simulations on HPCs. 
 
-My contributions:
+I am the lead developer of [MiMiCPy](https://mimic-project.org/en/latest/mimicpy/overview.html), a python toolkit as a companion to MiMiC. The code greatly simplifies the preparation and debugging of MiMiC-based QM/MM input files via a user-friendly interface. It provides an extensive list of command-line tools with an easy-to-use selection language to selection the QM regions. A plugin version of PrepQM for PyMOL and VMD allows the selection of visually complex QM regions. MiMiCPy can also be used as a Python library, allowing one to develop complex workflows to set up MiMiC-based QM/MM simulations. The package has been designed with a modular and object-oriented approach. This allows one (i) to easily support new topology and coordinate file formats from different programs, when they become available in MiMiC; (ii) to develop new tools as MiMiC expands its functionalities.
 
-- Testing of the crucial communication library and the software's scaling with the largest protein system simulated so far.
-- Main developer for the MiMiCPy python interface of MiMiC. Allows for advanced 'pythonic' access of MiMiC input preparation/run functionalities. Comes with command line tools, and integration with molecular visualization packages for efficient building of MiMiC runs.
-
-Skills demonstrated:
-- Languages: C++, Python
-- Colllabrative development: Git version control, GitHub, GitLab
-- Development enviornments: GCC, Intel, OpenMPI, CMake/Make, GDB
-- Test driven development: Pytest, GoogleTest, GitLab CI
-- HPC cloud environment: MPI, Bash Shell, SSH, Paramiko
+I contribute to testing, documentation and communication activities related to MiMiC. I have spearheaded training activities at the [CECAM Flagship School on MiMiC](https://www.cecam.org/workshop-details/1119) held at the École Polytechnique Fédérale de Lausanne (EPFL) on 18 to 22 July 2022 and the [Simulate with EBRAINS](https://flagship.kip.uni-heidelberg.de/jss/HBPm?m=showAgenda&meetingID=242) event held by the Human Brian Project on 10th Nov 2022.
 
 <p align="center">
   <img src="hepp.png" width="430" height="200"/>
