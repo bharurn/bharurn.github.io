@@ -21,7 +21,7 @@ The <b>Big Data</b> revolution of the past decade has hugely increased the effic
 <br>
 <b>About</b>
 <br>
-Hi! I am Bharath Raghavan, a doctoral student at Forschungszentrum Jülich, one of the foremost supercomputing centers in Europe, and my research mission is to advance the application of high performance computing to allow for automated drug design. I believe that highly scalable quantum simulations, coupled with complex deep learning neural networks, can give us intricate atomic-level insights of pharmaceutically relevant enzyme function. This deep quantum-level understanding of our biology can greatly streamline the drug design process by promoting the rational and scientific design of enzyme inhibitors. The wider promulgation of supercomputing technologies will allow the scientific community to unlock the huge potential of AI-accelerated quantum simulations for pharmacology.
+Hi! I am Bharath Raghavan, a doctoral student at Forschungszentrum Jülich, one of the foremost supercomputing centers in Europe, and my research mission is to advance the application of high performance computing to allow for automated drug design. I believe that highly scalable quantum simulations, coupled with complex deep learning neural networks, can give us intricate atomic-level insights of pharmaceutically relevant enzyme function. This deep quantum-level understanding of our biology can greatly streamline the drug design process by promoting the rational and scientific design of enzyme inhibitors. The wider promulgation of supercomputing technologies will allow the scientific community to unlock the huge potential of AI-accelerated quantum simulations for pharmacology. Contact me if you wish to collaborate on these exciting ideas!
 <br>
 <br>
 </div>
@@ -29,7 +29,3 @@ Hi! I am Bharath Raghavan, a doctoral student at Forschungszentrum Jülich, one 
 <p align="center">
  <img src="images/Banner2.jpg">
 </p>
-
-<div style="text-align: justify">
-Browse this website for more details. <a href="mailto:{{ 'b.raghavan@fz-juelich.de' | encode_email }}">Contact me</a> if you wish to collaborate on some exciting ideas!
-</div>
