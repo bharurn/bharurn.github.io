@@ -1,13 +1,10 @@
-# main links links
+# main links
 main:
-  - title: "Experience"
-    url: /experience/
-  
   - title: "Research"
     url: /research/
-    
-  - title: "Publications"
-    url: /publications/
+  
+  - title: "Experience"
+    url: /experience/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Events"
+    url: /events/
