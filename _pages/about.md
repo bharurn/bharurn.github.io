@@ -31,5 +31,5 @@ Hi! I am Bharath Raghavan, a doctoral student at Forschungszentrum Jülich, one 
 </p>
 
 <div style="text-align: justify">
-Browse this website for more details. <a href="mailto:{{ b.raghavan@fz-juelich.de | encode_email }}">Contact me</a> if you wish to collaborate on some exciting ideas!
+Browse this website for more details. <a href="mailto:{{ 'b.raghavan@fz-juelich.de' | encode_email }}">Contact me</a> if you wish to collaborate on some exciting ideas!
 </div>
