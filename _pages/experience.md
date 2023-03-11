@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify">
-I have a diverse work/education experience, having been involved with institutions in India, the United States and Germany. I also have a diverse training in computational chemistry, machine learning & data science, high performance computing, software dvelopment, physical chemistry and pharmaceutical biochemistry.
+I have a diverse work/education experience, having been involved with institutions in India, the United States and Germany. I also have a diverse training in computational chemistry, bio- & pharmaceutical chemistry, physical & materials chemistry, machine learning & data science, high performance computing, and the chemical industry.
 </div>
 
 <p align="center">
