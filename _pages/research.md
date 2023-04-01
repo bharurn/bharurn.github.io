@@ -29,7 +29,7 @@ I was involved in early efforts to couple MiMiC-QM/MM simulations with machine l
 ## High-Performance Computing & Quantum Chemistry Against Glioma
 
 <p align="center">
-  <img src="hepp.png" width="430" height="200"/>
+  <img src="../images/Research2.jpg" width="90%" height="65%"/>
 </p>
 
 I am involved in the Helmholtz European Partnering Project between Forschungszentrum Juelich and Italian Institute of Technology, directly working with Prof. Dr. Paolo Carloni and Dr. Marco De Vivo, and involving Prof. Michele Parrinello, Prof. Guilia Rossetti, and Prof. Bernd Neumaier. The main goal is to apply high performance computing approaches to tackle neurological diseases. I am specifically involved in applying scalable Quantum Mechanics/Molecular Mechanics (QM/MM)-based dynamics to study the IDH1 enzyme catalysis. Variants of IDH1 are involved in glioma and glioblastoma. QM/MM simulations of IDH1 are hoped to lead to an understanding of the catalytic mechanism, and an accurate map of the transition state. This information can be used to suggest transition state analogs, which may be a million times more effective compared to current glioma inhibitors. This will be especially useful in suggesting radiotracers for non-invasive detection of early-stage glioma, an avenue being investigated with our experimental collaborator Prof. Bernd Neumaier.
